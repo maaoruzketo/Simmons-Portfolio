@@ -1,0 +1,46 @@
+.list-group-item{
+    background-color: royalblue;
+    color: white;
+    
+}
+
+h2{
+    text-align: center;
+}
+.img-fluid{
+    align-items: center;
+    height: 75%;
+    width: 75%;
+}
+.garbordor{
+    height: 100%;
+    width: 100%;
+}
+.btnDel{
+    background-color: white;
+}
+body{
+    background-image: url(/images/originalBG.jpg);
+}
+
+#addItem{
+    background-color: royalblue;
+}
+
+.inputBigCheckBox{
+    background: transparent;
+    padding: 0%;
+}
+
+.bgText{
+    border-radius: 25px;
+    background-color: white;
+    color: royalblue;
+}
+
+.title{
+    background-color: white;
+    color: royalblue;
+    border-radius: 25px;
+    padding-bottom: 3px;
+}

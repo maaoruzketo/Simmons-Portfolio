@@ -1,0 +1,65 @@
+#hero-1{
+    background: url(/assets/header.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.navbar{
+    background-color: #000324;
+    color: #FFFFFF;
+    font: Regular 20px/26px Dosis;
+    width: 100%;
+}
+.reserve{
+    border: #FFFFFF;
+    padding: 10%;
+}
+.logo1{
+    justify-items: center;
+}
+.WheelofLux{
+    position: absolute;
+    top: 390px;
+    right: 650px;
+    color:#FFFFFF;
+    background-color: #000324;
+}
+.explore{
+    position: absolute;
+    top: 450px;
+    right: 600px;
+    color: #FFFFFF;
+}
+.background2{
+    background-image: url(/assets/bg2.jpg);
+}
+.background{
+    background-image: url(/assets/bg.jpg);
+}
+.ourRooms{
+    color: #FFFFFF;
+    text-align: center;
+    padding: 2rem;
+}
+.pricing{
+    color: blue;
+}
+.welcomeBanner{
+    padding: 2rem;
+}
+.packages{
+    text-align: center;
+}
+.packageBanner{
+    padding: 2rem;
+    align-items: center;
+}
+.amenities{
+    color: #FFFFFF;
+    text-align: center;
+}
+.amenitiesImg{
+width: 100%;
+}
+.awardImg{
+
+}

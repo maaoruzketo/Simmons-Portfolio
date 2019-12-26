@@ -1,0 +1,26 @@
+.background{
+    background-color: midnightblue;
+}
+#studentsInfoFirst{
+    background-color: palevioletred;
+    color: papayawhip;
+}
+#studentsInfoPrev{
+    background-color: palevioletred;
+    color: papayawhip;
+}
+#studentsInfo{
+    background-color: palevioletred;
+    color: papayawhip;
+}
+#studentsInfoNext{
+    background-color: palevioletred;
+    color: papayawhip;
+}
+#studentsInfoLast{
+    background-color: palevioletred;
+    color: papayawhip;
+}
+h1{
+    color: papayawhip;
+}

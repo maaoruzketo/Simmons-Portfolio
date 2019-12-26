@@ -1,0 +1,806 @@
+{
+    "easy": [
+        {
+            "Q": "What region is Team Plasma native to?",
+            "A1": "Jhoto",
+            "A2": "Alola",
+            "A3": "Kanto",
+            "A4": "Unova",
+            "C": "Unova"
+        },
+        {
+            "Q": "What enemy Team terroized multiple regions?",
+            "A1": "Team Rocket",
+            "A2": "Team Galaxy",
+            "A3": "Team Magma",
+            "A4": "Team Yell",
+            "C": "Team Rocket"
+        },
+        {
+            "Q": "What is the final evolution of Charmander?",
+            "A1": "Charizard",
+            "A2": "Charmeleon",
+            "A3": "Typhlosion",
+            "A4": "Heatran",
+            "C": "Charizard"
+        },
+        {
+            "Q": "What is the final evolution of Bulbasaur?",
+            "A1": "Ivysaur",
+            "A2": "Bayleef",
+            "A3": "Venusaur",
+            "A4": "Meganium",
+            "C": "Venusaur"
+        },
+        {
+            "Q": "What is the final evolution of Squirtle?",
+            "A1": "Gyarados",
+            "A2": "Wartortle",
+            "A3": "Lapras",
+            "A4": "Blastoise",
+            "C": "Blastoise"
+        },
+        {
+            "Q": "Which Pokemon is the mascot of the series?",
+            "A1": "Mew",
+            "A2": "Jigglypuff",
+            "A3": "Pikachu",
+            "A4": "Charizard",
+            "C": "Pikachu"
+        },
+        {
+            "Q": "What Pokemon game is the 3rd of the original 1st generation?",
+            "A1": "Pokemon Green",
+            "A2": "Pokemon Purple",
+            "A3": "Pokemon Silver",
+            "A4": "Pokemon Yellow",
+            "C": "Pokemon Yellow"
+        },
+        {
+            "Q": "What 2nd Gen Pokemon game features 'Lugia' on the cover?",
+            "A1": "Pokemon Silver",
+            "A2": "Pokemon Gold",
+            "A3": "Pokemon Crystal",
+            "A4": "Pokemon Platinum",
+            "C": "Pokemon Silver"
+        },
+        {
+            "Q": "What Pokemon game focused on taking pictures?",
+            "A1": "Pokemon Colosseum",
+            "A2": "Pokemon Snap",
+            "A3": "Pokemon Emerald",
+            "A4": "Pokemon Stadium",
+            "C": "Pokemon Snap"
+        },
+        {
+            "Q": "Which Pokemon game belongs to the 8th Generation?",
+            "A1": "Pokemon Sword",
+            "A2": "Pokemon Platinum",
+            "A3": "Pokemon Omega Ruby",
+            "A4": "Pokemon Moon",
+            "C": "Pokemon Sword"
+        },
+        {
+            "Q": "Who was Ash's first Pokemon?",
+            "A1": "Bulbasaur",
+            "A2": "Squirtle",
+            "A3": "Pikachu",
+            "A4": "Charmander",
+            "C": "Pikachu"
+        },
+        {
+            "Q": "What type of gym does Misty run?",
+            "A1": "Water",
+            "A2": "Grass",
+            "A3": "Psychic",
+            "A4": "Rock",
+            "C": "Water"
+        },
+        {
+            "Q": "What is Pikachu's signature move?",
+            "A1": "Iron Tail",
+            "A2": "Quick Attack",
+            "A3": "Volt Tackle",
+            "A4": "Thunderbolt",
+            "C": "Thunderbolt"
+        },
+        {
+            "Q": "Who is the Human Male member of Team Rocket?",
+            "A1": "Jessie",
+            "A2": "James",
+            "A3": "Wally",
+            "A4": "Brock",
+            "C": "James"
+        },
+        {
+            "Q": "Who is the Human Female member of Team Rocket?",
+            "A1": "Jessie",
+            "A2": "May",
+            "A3": "Misty",
+            "A4": "Dawn",
+            "C": "Jessie"
+        },
+        {
+            "Q": "Who is the talking Pokemon member of Team Rocket?",
+            "A1": "Wobbuffet",
+            "A2": "Seviper",
+            "A3": "Perrserker",
+            "A4": "Meowth",
+            "C": "Meowth"
+        },
+        {
+            "Q": "What type is Super Effective to Electric type?",
+            "A1": "Ground",
+            "A2": "Ice",
+            "A3": "Fire",
+            "A4": "Water",
+            "C": "Ground"
+        },
+        {
+            "Q": "What type is Super Effective to Ground type?",
+            "A1": "Electric",
+            "A2": "Bug",
+            "A3": "Ice",
+            "A4": "Normal",
+            "C": "Ice"
+        },
+        {
+            "Q": "Rock type is SUper Effective to which type?",
+            "A1": "Water",
+            "A2": "Fire",
+            "A3": "Steel",
+            "A4": "Fairy",
+            "C": "Fire"
+        },
+        {
+            "Q": "What is the final evolution of Abra?",
+            "A1": "Kadabra",
+            "A2": "Espurr",
+            "A3": "Mismagius",
+            "A4": "Alakazam",
+            "C": "Alakazam"
+        },
+        {
+            "Q": "What is the final evolution of Ghastly?",
+            "A1": "Gengar",
+            "A2": "Spiritomb",
+            "A3": "Haunter",
+            "A4": "Rotom",
+            "C": "Gengar"
+        },
+        {
+            "Q": "Which generation of games is Pokemon Sun and Moon part of?",
+            "A1": "Gen 5",
+            "A2": "Gen 6",
+            "A3": "Gen 7",
+            "A4": "Gen 8",
+            "C": "Gen 7"
+        },
+        {
+            "Q": "Who is the cover Pokemon for Pokemon Sun?",
+            "A1": "Solgaleo",
+            "A2": "Lunala",
+            "A3": "Necrozma",
+            "A4": "Cosmog",
+            "C": "Solgaleo"
+        },
+        {
+            "Q": "What Pokemon does Pikachu evolve into?",
+            "A1": "Mimikyu",
+            "A2": "Electivire",
+            "A3": "Pachirisu",
+            "A4": "Raichu",
+            "C": "Raichu"
+        },
+        {
+            "Q": "Who is the Cover Pokemon for Pokemon Moon?",
+            "A1": "Necrozma",
+            "A2": "Cosmog",
+            "A3": "Lunala",
+            "A4": "Cresselia",
+            "C": "Lunala"
+        },
+        {
+            "Q": "How much does it cost to enter the Safari Zone?",
+            "A1": "500",
+            "A2": "1000",
+            "A3": "100",
+            "A4": "5000",
+            "C": "500"
+        },
+        {
+            "Q": "Where is the player's Pokemon Box located in game?",
+            "A1": "Poke Mart",
+            "A2": "Pokemon Center",
+            "A3": "Home",
+            "A4": "The Gym",
+            "C": "Pokemon Center"
+        },
+        {
+            "Q": "How many Gyms badges must a trainer collect?",
+            "A1": "8",
+            "A2": "10",
+            "A3": "6",
+            "A4": "7",
+            "C": "8"
+        },
+        {
+            "Q": "What Pokemon stat determines who goes first?",
+            "A1": "Health",
+            "A2": "S. Defense",
+            "A3": "Speed",
+            "A4": "Attack",
+            "C": "Speed"
+        },
+        {
+            "Q": "Who is the cover Pokemon of Pokemon Emerald?",
+            "A1": "Kyogre",
+            "A2": "Rayquaza",
+            "A3": "Zekrom",
+            "A4": "Zygarde",
+            "C": "Rayquaza"
+        },
+        {
+            "Q": "What generation was Mew introduced in?",
+            "A1": "Gen 1",
+            "A2": "Gen 2",
+            "A3": "Gen 3",
+            "A4": "Gen 4",
+            "C": "Gen 1"
+        },
+        {
+            "Q": "What type is Deoxys?",
+            "A1": "Psychic",
+            "A2": "Dark",
+            "A3": "Normal",
+            "A4": "Fairy",
+            "C": "Psychic"
+        },
+        {
+            "Q": "What type is Super Effective to Ice type?",
+            "A1": "Ground",
+            "A2": "Electric",
+            "A3": "Fighting",
+            "A4": "Normal",
+            "C": "Fighting"
+        },
+        {
+            "Q": "What type is Super Effective to Dark type?",
+            "A1": "Fighting",
+            "A2": "Grass",
+            "A3": "Ghost",
+            "A4": "Psychic",
+            "C": "Fighting"
+        },
+        {
+            "Q": "What type is Super Effective against Bug type?",
+            "A1": "Water",
+            "A2": "Grass",
+            "A3": "Flying",
+            "A4": "Dragon",
+            "C": "Flying"
+        },
+        {
+            "Q": "What type is Super Effective against Poison type?",
+            "A1": "Ground",
+            "A2": "Fighting",
+            "A3": "Fairy",
+            "A4": "Grass",
+            "C": "Ground"
+        },
+        {
+            "Q": "What game features May as your rival?",
+            "A1": "Pokemon Gold",
+            "A2": "Pokemon Sapphire",
+            "A3": "Pokemon Crystal",
+            "A4": "Pokemon Diamond",
+            "C": "Pokemon Sapphire"
+        },
+        {
+            "Q": "What is the final evolution of Dratini?",
+            "A1": "Druddigon",
+            "A2": "Dragonair",
+            "A3": "Dragonite",
+            "A4": "Kingdra",
+            "C": "Dragonite"
+        },
+        {
+            "Q": "Which of Ash's Pokemon never evolves?",
+            "A1": "Caterpie",
+            "A2": "Charmeleon",
+            "A3": "Treecko",
+            "A4": "Pikachu",
+            "C": "Pikachu"
+        },
+        {
+            "Q": "Which of these Pokemon is NOT a starter pokemon?",
+            "A1": "Treecko",
+            "A2": "Piplup",
+            "A3": "Oshawott",
+            "A4": "Buizel",
+            "C": "Buizel"
+        },
+        {
+            "Q": "Which of these Pokemon is a starter pokemon?",
+            "A1": "Caterpie",
+            "A2": "Sobble",
+            "A3": "Bagon",
+            "A4": "Zigzagoon",
+            "C": "Sobble"
+        },
+        {
+            "Q": "Who is the protagonist of the 'Pokemon' anime?",
+            "A1": "Gary",
+            "A2": "Red",
+            "A3": "Ash",
+            "A4": "Brock",
+            "C": "Ash"
+        },
+        {
+            "Q": "How Many Mega EVolutions does Pikachu have?",
+            "A1": "0",
+            "A2": "1",
+            "A3": "2",
+            "A4": "3",
+            "C": "0"
+        },
+        {
+            "Q": "How many Mega Evolutions does Charizard have?",
+            "A1": "0",
+            "A2": "1",
+            "A3": "2",
+            "A4": "3",
+            "C": "2"
+        },
+        {
+            "Q": "How many Pokemon generations are there (as of Nov. 16 2019)?",
+            "A1": "6",
+            "A2": "7",
+            "A3": "8",
+            "A4": "9",
+            "C": "8"
+        },
+        {
+            "Q": "What was the first Pokemon game remake?",
+            "A1": "Pokemon Fire Red",
+            "A2": "Pokemon HeartGold",
+            "A3": "Pokemon Black",
+            "A4": "Pokemon Omega Ruby",
+            "C": "Pokemon Fire Red"
+        },
+        {
+            "Q": "What was the first game to introduce Pokemon Contests?",
+            "A1": "Pokemon SoulSilver",
+            "A2": "Pokemon Ruby",
+            "A3": "Pokemon Crystal",
+            "A4": "Pokemon White",
+            "C": "Pokemon Ruby"
+        },
+        {
+            "Q": "What item will instantly raise the level of a Pokemon by 1?",
+            "A1": "Rare Candy",
+            "A2": "Soul Dew",
+            "A3": "Leftovers",
+            "A4": "Moo Milk",
+            "C": "Rare Candy"
+        },
+        {
+            "Q": "How many Pokemon are there in Gen 1?",
+            "A1": "125",
+            "A2": "151",
+            "A3": "149",
+            "A4": "160",
+            "C": "151"
+        },
+        {
+            "Q": "Who is the antagonist of the first Pokemon movie?",
+            "A1": "Giovanni",
+            "A2": "Lugia",
+            "A3": "Mewtwo",
+            "A4": "Lance",
+            "C": "Mewtwo"
+        }
+    ],
+    "hard": [
+        {
+            "Q": "How many battle forms does 'Rotom' have?",
+            "A1": "4",
+            "A2": "5",
+            "A3": "6",
+            "A4": "7",
+            "C": "6"
+        },
+        {
+            "Q": "What generation was Dark type introduced in?",
+            "A1": "Gen 1",
+            "A2": "Gen 2",
+            "A3": "Gen 3",
+            "A4": "Gen 4",
+            "C": "Gen 2"
+        },
+        {
+            "Q": "Which Pokemon generation first introduced the Day and Night cycle?",
+            "A1": "Gen 1",
+            "A2": "Gen 2",
+            "A3": "Gen 3",
+            "A4": "Gen 4",
+            "C": "Gen 2"
+        },
+        {
+            "Q": "Which Pokemon learns Sketch?",
+            "A1": "Smeargle",
+            "A2": "Ditto",
+            "A3": "Mew",
+            "A4": "Arceus",
+            "C": "Smeargle"
+        },
+        {
+            "Q": "Pokemon Black and White belong are part of which generation?",
+            "A1": "Gen 4",
+            "A2": "Gen 5",
+            "A3": "Gen 7",
+            "A4": "Gen 9",
+            "C": "Gen 5"
+        },
+        {
+            "Q": "What generation was Steel type introduced in?",
+            "A1": "Gen 1",
+            "A2": "Gen 2",
+            "A3": "Gen 3",
+            "A4": "Gen 4",
+            "C": "Gen 2"
+        },
+        {
+            "Q": "Which move never misses?",
+            "A1": "Fissure",
+            "A2": "Ice Beam",
+            "A3": "Thunder",
+            "A4": "Swift",
+            "C": "Swift"
+        },
+        {
+            "Q": "Which move requires two turns to use?",
+            "A1": "Solar Beam",
+            "A2": "Hyper Beam",
+            "A3": "Magnitude",
+            "A4": "Extreme Speed",
+            "C": "Solar Beam"
+        },
+        {
+            "Q": "What Legendary Pokemon can be found in the Power Plant?",
+            "A1": "Genesect",
+            "A2": "Zapdos",
+            "A3": "Raiku",
+            "A4": "Zubat",
+            "C": "Zapdos"
+        },
+        {
+            "Q": "What generation was Fairy type introduced in?",
+            "A1": "Gen 2",
+            "A2": "Gen 4",
+            "A3": "Gen 5",
+            "A4": "Gen 6",
+            "C": "Gen 6"
+        },
+        {
+            "Q": "Which generation contained two bikes?",
+            "A1": "Gen 2",
+            "A2": "Gen 3",
+            "A3": "Gen 5",
+            "A4": "Gen 6",
+            "C": "Gen 3"
+        },
+        {
+            "Q": "Which type is super effective to water?",
+            "A1": "Grass",
+            "A2": "Ice",
+            "A3": "Flying",
+            "A4": "Ground",
+            "C": "Grass"
+        },
+        {
+            "Q": "Which ability lowers the enemy physical attack stat?",
+            "A1": "Sheer Power",
+            "A2": "Levitate",
+            "A3": "Intimidate",
+            "A4": "Pressure",
+            "C": "Intimidate"
+        },
+        {
+            "Q": "In the tv show, which Pokemon draws on others faces, while they sleep?",
+            "A1": "Meowth",
+            "A2": "Psyduck",
+            "A3": "Piplup",
+            "A4": "Jigglypuff",
+            "C": "Jigglypuff"
+        },
+        {
+            "Q": "Which type is super effective to Dragon?",
+            "A1": "Fairy",
+            "A2": "Steel",
+            "A3": "Electric",
+            "A4": "Psychic",
+            "C": "Fairy"
+        },
+        {
+            "Q": "Which type is super effective to Ghost?",
+            "A1": "Bug",
+            "A2": "Poison",
+            "A3": "Normal",
+            "A4": "Ghost",
+            "C": "Ghost"
+        },
+        {
+            "Q": "Which of these items will NOT cause Eevee to evolve?",
+            "A1": "Fire Stone",
+            "A2": "Sun Stone",
+            "A3": "Water Stone",
+            "A4": "Thunder Stone",
+            "C": "Sun Stone"
+        },
+        {
+            "Q": "What type does Eevee NOT evolve into?",
+            "A1": "Poison",
+            "A2": "Fairy",
+            "A3": "Ice",
+            "A4": "Dark",
+            "C": "Poison"
+        },
+        {
+            "Q": "How many 'Eeveelutions' exist prior to Gen 8?",
+            "A1": "6",
+            "A2": "7",
+            "A3": "8",
+            "A4": "9",
+            "C": "8"
+        },
+        {
+            "Q": "Which of these Pokemon is a starter option in 'Pokemon Colosseum'?",
+            "A1": "Umbreon",
+            "A2": "Totodile",
+            "A3": "Pikachu",
+            "A4": "Grookey",
+            "C": "Umbreon"
+        },
+        {
+            "Q": "Which of these is Cynthia's signature Pokemon?",
+            "A1": "Cradily",
+            "A2": "Spiritomb",
+            "A3": "Garchomp",
+            "A4": "Abomasnow",
+            "C": "Garchomp"
+        },
+        {
+            "Q": "What is Steven's signature Pokemon?",
+            "A1": "Absol",
+            "A2": "Metagross",
+            "A3": "Meowstic",
+            "A4": "Aggron",
+            "C": "Metagross"
+        },
+        {
+            "Q": "Metal Coat allows which of these Pokemon evolve?",
+            "A1": "Piplup",
+            "A2": "Onix",
+            "A3": "Pinsir",
+            "A4": "Eevee",
+            "C": "Onix"
+        },
+        {
+            "Q": "Which of these Pokemon does not evolve?",
+            "A1": "Drampa",
+            "A2": "Metang",
+            "A3": "Meowth",
+            "A4": "Jigglypuff",
+            "C": "Drampa"
+        },
+        {
+            "Q": "Who is the Pokemon Champion of Gen 4?",
+            "A1": "Youngster Joey",
+            "A2": "Jahteen",
+            "A3": "Cynthia",
+            "A4": "Gary",
+            "C": "Cynthia"
+        },
+        {
+            "Q": "What Pokemon type was introduced to balance Dragon Type?",
+            "A1": "Steel",
+            "A2": "Ice",
+            "A3": "Fairy",
+            "A4": "Dark",
+            "C": "Dragon"
+        },
+        {
+            "Q": "What is the least common Pokemon type?",
+            "A1": "Poison",
+            "A2": "Fairy",
+            "A3": "Ice",
+            "A4": "Electric",
+            "C": "Ice"
+        },
+        {
+            "Q": "Which of these moves has priority over 'Extreme Speed'?",
+            "A1": "Protect",
+            "A2": "Accelrock",
+            "A3": "Quick Attack",
+            "A4": "Sucker Punch",
+            "C": "Protect"
+        },
+        {
+            "Q": "What type is Normal immune to?",
+            "A1": "Fighting",
+            "A2": "Fairy",
+            "A3": "Ghost",
+            "A4": "Dark",
+            "C": "Ghost"
+        },
+        {
+            "Q": "Which Poke ball is 100% guaranteed to capture a Pokemon?",
+            "A1": "Ultra ball",
+            "A2": "Master ball",
+            "A3": "Luxury ball",
+            "A4": "Premier ball",
+            "C": "Master ball"
+        },
+        {
+            "Q": "Which Legendary group of Pokemon require Braille puzzles to be solved before battling them?",
+            "A1": "Lunar Duo",
+            "A2": "Legendary Titans",
+            "A3": "Legendary Beasts",
+            "A4": "Eon Duo",
+            "C": "Legendary Titans"
+        },
+        {
+            "Q": "Which of these moves has priority +5?",
+            "A1": "Trick Room",
+            "A2": "Dragon Tail",
+            "A3": "Helping Hand",
+            "A4": "Detect",
+            "C": "Helping Hand"
+        },
+        {
+            "Q": "What is Jirachi's signature move?",
+            "A1": "Wish",
+            "A2": "Teleport",
+            "A3": "Doom Desire",
+            "A4": "Psybeam",
+            "C": "Doom Desire"
+        },
+        {
+            "Q": "Which item is needed to summon Lugia?",
+            "A1": "Tidal Bell",
+            "A2": "Rainbow Wing",
+            "A3": "Clear Bell",
+            "A4": "Super Rod",
+            "C": "Tidal Bell"
+        },
+        {
+            "Q": "Which item is needed to summon Ho-oh?",
+            "A1": "Rainbow Wing",
+            "A2": "Silver Wing",
+            "A3": "Sun Stone",
+            "A4": "Red Orb",
+            "C": "Rainbow Wing"
+        },
+        {
+            "Q": "Which Legendary Pokemon is waiting atop Sky Pillar?",
+            "A1": "Lugia",
+            "A2": "Articuno",
+            "A3": "Rayquaza",
+            "A4": "Ho-oh",
+            "C": "Rayquaza"
+        },
+        {
+            "Q": "Which item is connected to Giratina?",
+            "A1": "Jade Orb",
+            "A2": "Lustrous Orb",
+            "A3": "Adamant Orb",
+            "A4": "Griseous Orb",
+            "C": "Griseous Orb"
+        },
+        {
+            "Q": "Which item is connected to Latios & Latias?",
+            "A1": "Soul Dew",
+            "A2": "Dark Stone",
+            "A3": "Light Stone",
+            "A4": "Lunar Wing",
+            "C": "Soul Dew"
+        },
+        {
+            "Q": "Which of these Pokemon does Mr. Mime evolve into?",
+            "A1": "Mr. Rime",
+            "A2": "Mr. Rogers",
+            "A3": "Mr. Null",
+            "A4": "Mr. Mime doesn't evolve",
+            "C": "Mr. Rime"
+        },
+        {
+            "Q": "Who is the leader of Team Rocket?",
+            "A1": "Meowth",
+            "A2": "Mewtwo",
+            "A3": "Blain",
+            "A4": "Giovanni",
+            "C": "Giovanni"
+        },
+        {
+            "Q": "Which area in Kanto has a pokemon gravesite?",
+            "A1": "Lavender Town",
+            "A2": "Lavaridge Town",
+            "A3": "Viridian City",
+            "A4": "Saffron City",
+            "C": "Lavender Town"
+        },
+        {
+            "Q": "What move has the least priority in game?",
+            "A1": "Snatch",
+            "A2": "Trick Room",
+            "A3": "Counter",
+            "A4": "Water Shuriken",
+            "C": "Trick Room"
+        },
+        {
+            "Q": "Which of Ash's Pokemon does NOT have a Poke ball?",
+            "A1": "Pikachu",
+            "A2": "Butterfree",
+            "A3": "Ho-oh",
+            "A4": "Charizard",
+            "C": "Pikachu"
+        },
+        {
+            "Q": "Which of these moves causes the MOST damage?",
+            "A1": "Swords Dance",
+            "A2": "Magnitude",
+            "A3": "Hyper Beam",
+            "A4": "Explosion",
+            "C": "Explosion"
+        },
+        {
+            "Q": "What happens if a Charizard's tail goes out?",
+            "A1": "It will weaken",
+            "A2": "It will die",
+            "A3": "It will fall asleep",
+            "A4": "Nothing",
+            "C": "It will die"
+        },
+        {
+            "Q": "How much does a Poke Ball cost?",
+            "A1": "100",
+            "A2": "50",
+            "A3": "200",
+            "A4": "500",
+            "C": "100"
+        },
+        {
+            "Q": "What item do you get for purchasing 10 Poke Balls in bulk?",
+            "A1": "Great Ball",
+            "A2": "Premier Ball",
+            "A3": "Rare Candy",
+            "A4": "Potion",
+            "C": "Premier Ball"
+        },
+        {
+            "Q": "Which Pokemon learns 'Dark Void'?",
+            "A1": "Gengar",
+            "A2": "Zoroark",
+            "A3": "Guzzlord",
+            "A4": "Darkrai",
+            "C": "Darkrai"
+        },
+        {
+            "Q": "What does Galarian Meowth evolve into?",
+            "A1": "Persian",
+            "A2": "Perrserker",
+            "A3": "Purrloin",
+            "A4": "Espurr",
+            "C": "Perrserker"
+        },
+        {
+            "Q": "Where can this Trivia game's music be found in the Pokemon series?",
+            "A1": "Spear Pillar",
+            "A2": "Sea Spirit's Den",
+            "A3": "Sinjoh Ruins",
+            "A4": "Altar of the Sunne",
+            "C": "Sinjoh Ruins"
+        }
+    ]
+}

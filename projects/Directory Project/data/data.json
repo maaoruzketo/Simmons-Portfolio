@@ -1,0 +1,188 @@
+{
+    "students": [
+        {
+            "firstName": "Jonathan",
+            "lastName": "Stewart",
+            "nickName": "H-less John",
+            "email":"jstewart3800@gmail.com",
+            "slackName":"Jon Stewart",
+            "hobby":"Gaming"
+        },
+        {
+            "firstName": "Joseph",
+            "lastName": "Perez",
+            "nickName": "The Counter",
+            "email":"joseph.perez013@gmail.com",
+            "slackName":"Joseph Perez",
+            "hobby":"Gaming"
+        },
+        {
+            "firstName": "Nimish",
+            "lastName": "Lal",
+            "nickName": "Nimish",
+            "email":"nimishlal96@gmail.com",
+            "slackName":"Nimish Lal",
+            "hobby":"Swimming"
+        },
+        {
+            "firstName": "Joseangel",
+            "lastName": "Pantoja",
+            "nickName": "Angel",
+            "email":"angelpantoja27@gmail.com",
+            "slackName":"Angel",
+            "hobby":"Borderlands 3"
+        },
+        {
+            "firstName": "Trever",
+            "lastName": "Edwards",
+            "nickName": "#1 Draft Pick",
+            "email":"trever.edwards1218@gmail.com",
+            "slackName":"Trever Edwards",
+            "hobby":"Gaming"
+        },
+        {
+            "firstName": "Jose",
+            "lastName": "Martinez",
+            "nickName": "Jose",
+            "email":"josemartinez8282@gmail.com",
+            "slackName":"Jose Martinez",
+            "hobby":""
+        },
+        {
+            "firstName": "Johnny",
+            "lastName": "Uribe",
+            "nickName": "Johnny",
+            "email":"jzuliek@gmail.com",
+            "slackName":"Johnny U",
+            "hobby":"Long walks on the beach and for loops"
+        },
+        {
+            "firstName": "Deon",
+            "lastName": "Simmons",
+            "nickName": "Deon",
+            "email":"maaoruzketo13@gmail.com",
+            "slackName":"Deon",
+            "hobby":"Reading Comics/Manga"
+        },
+        {
+            "firstName": "Robert",
+            "lastName": "Burns",
+            "nickName": "Rob",
+            "email":"robertburns316@gmail.com",
+            "slackName":"Robert Burns",
+            "hobby":"airsofting"
+        },
+        {
+            "firstName": "Carter",
+            "lastName": "Galvez",
+            "nickName": "Carter",
+            "email":"cartermeme209@gmail.com",
+            "slackName":"Carter",
+            "hobby":"Gaming"
+        },
+        {
+            "firstName": "Zach",
+            "lastName": "Davis",
+            "nickName": "1 of 3 Roshambo Champions (not gonna let that go)",
+            "email":"zdavis1676@gmail.com",
+            "slackName":"Zach Davis",
+            "hobby":"Gaming"
+        },
+        {
+            "firstName": "Francisco",
+            "lastName": "Chavez",
+            "nickName": "Frankie",
+            "email":"fjchavez@outlook.com",
+            "slackName":"Francisco",
+            "hobby":"Reading"
+        },
+        {
+            "firstName": "Kevin",
+            "lastName": "Cabellero",
+            "nickName": "#2 Draft Pick",
+            "email":"kev1ncabb@gmail.com",
+            "slackName":"Kevin Cab",
+            "hobby":"Basketball"
+        },
+        {
+            "firstName": "Stephanie",
+            "lastName": "Singh",
+            "nickName": "Steph",
+            "email":"singh_stephaniee@hotmail.com",
+            "slackName":"Steph Singh",
+            "hobby":"Sleeping"
+        },
+        {
+            "firstName": "Carson",
+            "lastName": "Huber",
+            "nickName": "Cars",
+            "email":"carsonmyselvs@gmail.com",
+            "slackName":"ecstaticcarson",
+            "hobby":"Gaming"
+        },
+        {
+            "firstName": "Esteban",
+            "lastName": "Zaragoza",
+            "nickName": "uB",
+            "email":"esteban.zaragoza26@gmail.com",
+            "slackName":"Esteban Z",
+            "hobby":"Gaming"
+        },
+        {
+            "firstName": "Abraham",
+            "lastName": "Lopez",
+            "nickName": "Abe",
+            "email":"abelopezjr1992@gmail.com",
+            "slackName":"Abraham Lopez",
+            "hobby":"Manga"
+        },
+        {
+            "firstName": "David",
+            "lastName": "Abdallah",
+            "nickName": "Dave",
+            "email":"duende5801@gmail.com",
+            "slackName":"DaveDaAverageDude",
+            "hobby":"Work"
+        },
+        {
+            "firstName": "Bisola",
+            "lastName": "Awujoola",
+            "nickName": "Bisolaj",
+            "email":"bisolaj@yahoo.com",
+            "slackName":"Bisola",
+            "hobby":"Chess"
+        },
+        {
+            "firstName": "Lourn",
+            "lastName": "Selga",
+            "nickName": "The Tank",
+            "email":"lournselga@gmail.com",
+            "slackName":"Lourn Selga",
+            "hobby":"Model building"
+        },
+        {
+            "firstName": "Alex",
+            "lastName": "Her",
+            "nickName": "Alex",
+            "email":"alexher209@gmail.com",
+            "slackName":"Alex Her",
+            "hobby":"Gaming"
+        },
+        {
+            "firstName": "Nayo",
+            "lastName": "Ortiz",
+            "nickName": "Ny",
+            "email":"ortiznayo915@gmail.com",
+            "slackName":"Nayito",
+            "hobby":"Drawing"
+        },
+        {
+            "firstName": "Kurt",
+            "lastName": "Nipkau",
+            "nickName": "Leg",
+            "email":"kurtnipkau@gmail.com",
+            "slackName":"Leg",
+            "hobby":"Trolling"
+        }
+    ]
+}
